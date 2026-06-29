@@ -1,4 +1,4 @@
-[200~# 🤖 DevOps Assistant - Custom Gemini Gem
+# 🤖 DevOps Assistant - Custom Gemini Gem
 
 ## Overview
 A custom AI assistant built using **Google Gemini Gems** that helps DevOps engineers with:
