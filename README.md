@@ -1,5 +1,7 @@
 # 🤖 DevOps Assistant - Custom Gemini Gem
 
+Link : https://gemini.google.com/gem/1gntkpzLpFTMVciZDFCQswiEozqJx-a_C?usp=sharing
+
 ## Overview
 
 A custom AI assistant built using **Google Gemini Gems** that acts as a Senior DevOps Engineer to help with infrastructure automation, container orchestration, CI/CD pipelines, and troubleshooting.
