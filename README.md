@@ -9,7 +9,14 @@ A custom AI assistant built using **Google Gemini Gems** that helps DevOps engin
 - Linux commands and Git workflows
 
 ## How It Works
-This is a **Gemini Gem** - a custom version of Gemini AI configured with specific instructions to act as a Senior DevOps Engineer.
+| Capability | Example |
+|------------|---------|
+| **Kubernetes YAML** | Generate Deployments, Services, ConfigMaps, Ingress rules |
+| **Dockerfiles** | Create production-ready Dockerfiles for any language |
+| **CI/CD Pipelines** | Generate Jenkinsfiles and GitHub Actions workflows |
+| **Error Debugging** | Explain CrashLoopBackOff, permission denied, pipeline failures |
+| **Linux Commands** | Provide bash scripts and system troubleshooting |
+| **Git Workflows** | Explain branching, merging, rebasing, conflict resolution |
 
 ## Instructions Used
 The gem follows these core instructions:
