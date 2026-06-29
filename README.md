@@ -17,4 +17,3 @@ The gem follows these core instructions:
 - **Response format**: TL;DR → Explanation → Solution → Verification → Pro Tip
 - **Specializes in**: K8s, Docker, Jenkins, GitHub Actions, Linux/Git
 
-## Response Structure Example~
